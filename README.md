@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!👋 I am Dev Gupta <br>🔭A 4th Year Computer Science Undergraduate.<br>💡Looking to contribute to OpenSource Orgs.<br>🌱Learning new Tech Stacks and evolving myself as a fullstack engineer.<br>
+Hi!👋 I am Dev Gupta <br>🔭A Full Stack Developer.<br>💡Looking to contribute to OpenSource Orgs.<br>🌱Learning new Tech Stacks and evolving myself as a fullstack engineer.<br>
 
 
 ## 🌐 Socials:
